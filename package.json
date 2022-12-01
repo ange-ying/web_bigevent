@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.4"
+  },
+  "name": "code",
+  "version": "1.0.0",
+  "main": "1,使用readfile方法读取文件内容.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
